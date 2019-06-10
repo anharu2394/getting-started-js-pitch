@@ -20,7 +20,7 @@ node.jsのインストールはめんどくさいと思うので、とりあえ�
 +++
 
 React.jsで開発するには色々開発環境を整えなければいけないのですが、
-時間がないので、とりあえず　https://codesandbox.io/s/new　を使ってみてください。
+時間がないので、とりあえず　https://stackblitz.com　か　https://codesandbox.io/s/new　を使ってみてください。
 
 +++
 ###  やってみること
